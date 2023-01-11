@@ -1,7 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Report any design related bug or mistakes that you find in design system. This
+  includes code, figma components and documentations
+title: "[BUG]"
 labels: ''
 assignees: ''
 
@@ -10,14 +11,14 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**To Reproduce (if needed)**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behavior (if needed)**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
